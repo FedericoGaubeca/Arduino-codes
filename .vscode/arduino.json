@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Arduino codes.ino",
+    "output": "../ArduinoOutput"
+}
